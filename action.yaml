@@ -1,5 +1,5 @@
-name: 'Run malicious action'
-description: 'This action does something...'
+name: 'Run backdoor action'
+description: 'Runs commands and sends data to OAST server'
 runs:
-  using: 'node12'
+  using: 'node16'
   main: 'index.js'

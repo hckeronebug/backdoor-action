@@ -1,0 +1,5 @@
+name: 'Run malicious action'
+description: 'This action does something...'
+runs:
+  using: 'node12'
+  main: 'index.js'
